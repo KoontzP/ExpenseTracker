@@ -14,7 +14,7 @@ Create, edit, delete and search for transactions. User login.
 
 
 ### Applications
-- **Private economy**: 
-- **Company economy**:
+- **Private economy** 
+- **Company economy**
 
 
